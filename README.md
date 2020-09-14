@@ -1,7 +1,4 @@
-### Hi there, I'm Jonathan Basuki 👋
-
-[![Website](https://img.shields.io/website?label=jonathanbasuki.github.io&style=for-the-badge)](https://jonathanbasuki.github.io/)
-
+### Hello there, I'm Jonathan Basuki 👋
 ## I'm a Student!
 
 - 📚 I’m currently studying at the vacational high school in Jakarta!

@@ -1,7 +1,6 @@
 ### Hi there, I'm Jonathan Basuki 👋
 
 [![Website](https://img.shields.io/website?label=jonathanbasuki.github.io&style=for-the-badge)](https://jonathanbasuki.github.io/)
-[![Instagram Follow](https://img.shields.io/instagram/follow/jonathanbasuki?color=99004d&logo=instagram&style=for-the-badge)](http://instagram.com/jonathanbasuki/)
 
 ## I'm a Student!
 

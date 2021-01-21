@@ -2,7 +2,7 @@
 ## I'm a Student!
 
 - 📚 I’m currently studying at the vacational high school in Jakarta!
-- 👨🏻‍💻 I’m looking to be a Backend Developer.
+- 💻 Technology Enthusiast.
 
 ### Connect with me:
 

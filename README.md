@@ -1,7 +1,7 @@
 ### Hello there, I'm Jonathan Basuki 👋
 ## I'm a Student!
 
-- 📚 I’m currently studying at the vacational high school in Jakarta!
+- 📚 Vacational high school student!
 - 💻 Technology Enthusiast.
 
 ### Connect with me:
